@@ -29,14 +29,18 @@ O dia que vc colocar o tal dinâmico, essas complexidades, você vai ter que cai
 
 O estático, inicial, mesmo que sejam por 30-60 dias, é um exemplo de algo que não tem onde dizer "não deu certo porque eu usei esse sistema X ou Y de alguém" — coisa que é normal, que as pessoas fazem. 
 
-A sacada de um site de primeira viagem é vc minizar os pontos onde poderia dizer que não deu certo e deixar a resposabilidade de dar certo ou não em vc, somente em vc. E deixar as variáveis mais simples, ou seja, dentro do seu controle — conteúdo? porque quando você tinha elas do seu controle as suas experimentações, tipo comparações de casos A com B, etc, são comparações que são as cegas, tipo você passa a não ter noção do impacto de usar Fotos, ou Galerias, ou Attachment de arquivos, ou uso de moderação ou não. Essas são variáveis que são interessantes mas o "colocar e tirar" é um tempão perdido e muitas vezes nós não medimos isso corretamente. 
+## Site de primeira viagem: mais foco e sem comparações as cegas 
 
-Vou lhe dar um exemplo, eu já perdí meses de vida em mudar a posição e propaganda em um site. Isso é uma coisa que as pessoas fazem naturalmente, tipo olhar acesso de Analytics, ou Google Adsense. Mas são características de sites que não dão certo — pessoas que ficam atreladas na ideia de tentar medir ou inferir o que elas fazem seu critérios. No início, quando nós não sabemos de nada, tipo o meu caso hoje ainda nos sites que tenho, o que mais vale é a ação. E neste sentido tem que se definir as ações, passos, semanais e concretos ou critérios. Tipo o que farei agora? E depois que tiver no ar o que vou fazer. 
+A sacada de um site de primeira viagem é vc **minizar** (minimizar) os pontos onde poderia dizer que não deu certo e deixar a resposabilidade de dar certo ou não em vc, somente em vc. E deixar as variáveis mais simples, ou seja, dentro do seu controle — conteúdo que seja. Porque quando você tira elas do seu controle, as suas experimentações, tipo comparações de casos A com B, etc, são comparações que são as cegas, tipo você passa a não ter noção do impacto de usar aquele recurso de Fotos e aquele outro de Galerias e qual será o impacto de deixar os usuários enviarem arquivos em anexos? ou coisas como o uso de moderação ou o modo aberto. Essas são variáveis que são interessantes mas o "colocar e tirar" é um tempão perdido e muitas vezes nós não medimos isso corretamente. 
 
-Uma coisa é um fato, duas de fato: 
+Vou lhe dar um exemplo, eu já perdí meses de vida em mudar a posição e propaganda em um site sem saber com o que comparar. Isso é uma coisa que as pessoas fazem naturalmente, tipo olhar acesso de Analytics, ou Google Adsense achando que essas são medições que estão diretamente refletindo o que você fez como certo ou errado. O ficar atreladas na ideia de tentar medir, ou inferir, o que você faz sem critérios, e ainda no início, quando nós não sabemos muito, não é um valor agregado ainda mais no início onde tudo que conta é ação. E neste sentido tem que se definir as ações, passos, semanais e concretos e começar a entender o que serão seus critérios. Tipo o que farei agora? E depois que tiver no ar o que vou fazer na semana que vem. 
 
-* Não existe site no mundo que trabalha por si só — nunca existiu e nunca vai existir. 
-* Tudo tem atrelamento com pessoas reais — se você fizer um conteúdo que cria vínculo com pessoas vc está no mercado
+## Vale lembrar de alguns fatos 
+
+* Não existe site no mundo que trabalha por si só — nunca existiu e nunca vai existir;
+* Tudo tem atrelamento com pessoas reais — se você fizer um conteúdo que cria vínculo com pessoas vc está no mercado;
+
+## Mãos a obra
 
 Eu creio que mantendo esta característica, se puder, você tem a variável que pode lhe ajudar. As componentes que definem o sucesso estão mais atreladas em coisas como; 
 
@@ -44,7 +48,7 @@ Eu creio que mantendo esta característica, se puder, você tem a variável que 
 * conteúdo
 * mercado
 
-E tem muito e muitos sites estáticos ou dinâmicos que fazem este serviço bem feito. O que quer que lhe motiva é o que deve fazer e só deve ouvir aqueles que dizem que o que vai fazer tem tudo pra dar certo se isso for exatamente o que bate com o fato que faz vc entregar semanalmente, quinzenalmente, por semanas, meses, e anos se puder. 
+E tem muita coisa, muitos sites estáticos ou dinâmicos, que faz este serviço bem feito. O que quer que lhe motiva é o que deve fazer e só deve ouvir aqueles que dizem que o que vai fazer tem tudo pra dar certo se isso for exatamente o que bate com o fato que faz vc entregar semanalmente, quinzenalmente, por semanas, meses — depois medir. 
 
 Minimize espectatívas quando for usar "tecnologia" ou "produtos" de outros. Torne-se o 100% resposável pelos sucessos ou fracassos que é um mundo muito melhor de se lidar.  E cultive os relacionamentos porque isso é uma instabilidade saudável para o seu negócio, qualquer que seja ele. É a instabilidade que faz o negócio entrar no mercado, nas necessidades.
 
