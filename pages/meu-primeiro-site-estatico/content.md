@@ -8,16 +8,16 @@ O que vem aqui é só uma dica de quem errou. Se você começou com um site din�
 
 Eu disse "começar com um site estático é bom". Mas isso é muito curto, realmente. É importante uma visão sobre o estático, que seja um site, mas da estática que eu falo não é a que se aplica para o dono, o responsável – nada deve ser parado, as ações de execução em relação as suas ideias devem ser dinâmicas. Dizer estático versus dinâmico é simples demais e confuso demais porque tem muito site, tecnológicamente falando, estático, que é mais dinâmico que muito site tecnológicamente dinâmico que não serve pra nada, só para causar níveis de complexidade e ainda chances para coisas não funcionarem. 
 
-O foco, sai do estático ou dinâmico agora e vai para o simples. E no simples devemos procurar uma infra-estrutura que não pedras no caminho principalmente na relação entre o dono, o responsável.  Não queremos que o potencial das versões complexas causem trabalho pra você. Ao contrário, e algo muito bom do simples — ele  tira o potencial de que existe trabalho automático, e assim você não mais ficará com o benefício dessa possibilidade, a princípio bem chatinho. 
+O foco, sai do estático ou dinâmico agora e vai para o simples. E no simples devemos procurar uma infra-estrutura que oferece menos pedras no caminho principalmente na relação com o dono, o responsável. Um site tem que desdobrar as chances dos responsáveis trabalharem mais nas transformações para melhor. Não queremos que o potencial das versões complexas causem trabalho pra você. Ao contrário, e algo muito bom do simples — ele  tira o potencial de que existe trabalho automático, e assim você não mais ficará com o benefício dessa possibilidade, a princípio bem chatinho. 
 
 Porém, você também não vai encontrar a decepção do mundo automático que é o momento que ele não faz o que você quer, ou ainda, faz o que você não quer, ou ainda faz vc se atrelar em complexidades que não são atreladas ao que vc tinha em mente — seu site se torna outro. 
 
 Algumas que definem o crescimento inicial de um site são: 
 
-* Conteúdo — que você escreve (não no passado.) 
-* Quanto outros criam links na Web para seu site ( o que vc escreve fazendo impacto para outros )
-* Desenvolvimento da marca, preservação e investimento na sua reputação
-* Respostas para pessoas, quando vc está vivo, atende, o que funciona como um mecanismo para detectar o mercado, entender as dificuldades; 
+* Conteúdo — que você escreve (não o do passado); 
+* Os links para seu site, os méritos (o que vc escreve fazendo impacto para outros);
+* Desenvolvimento da marca, preservação e investimento na sua reputação (a reflexão em mercado);
+* Respostas e interação, com usuários, pessoas, parceiros — como quiser (quando vc está vivo, atende, o que funciona como um mecanismo para detectar o mercado, entender as dificuldades).
 
 Essas variáveis todas, e talvez outras, são coisas que você faz na estática. Quando digo estático não é exatamente fazer um HTML na mão, mas é postergar todas as parafernálias ou sonhos e complexidades criadas na Web, que um marujo de primeira viagem pode achar que são as características que definem um site de valor. E em alguns casos realmente causam valor mas no momento que existe em todos os sites o valor é dissipado e o focar na parafernália faz você ter menos tempo para o conteúdo. 
 
