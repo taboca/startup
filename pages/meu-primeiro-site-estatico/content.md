@@ -18,13 +18,13 @@ Porém, você também não vai encontrar a decepção do mundo automático que �
                pré-mercado ( outra história )  
              /--------------\ 
             / priorização de \ 
-           / automização.     \  * exceto novas transformações, 
+           / automização *    \ =* exceto novas transformações, 
           /--------------------\    e neste sentido aplica-se o  
          / usuários, servir e   \    início da pirâmide de novo.  
         / identificar critérios  \    Para o *novo* faça sempre a  
        /--------------------------\    alavancagem inicial, entregas,   
       / alavancagem inicial, menos \    e vá subindo. 
-     / recursos, mais entregas.     \
+     / recursos, mais entregas      \
     +--------------------------------+
 
 ## Encontrando seu serviço e negócio com um primeiro site
