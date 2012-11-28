@@ -2,7 +2,15 @@ Este artigo foi criado porque meu irmão me perguntou sobre a criação de um si
 
 ## Por onde começar quando a ideia é atrelada a um site
 
-Só minha dica. Projetos menores, ciclos menores. Mas na elucidação quando eu disse estática não é que vc ficou estático e também não é que existe o potencial de que a dinâmica faz o trabalho pra vc. Ao contrário, a estática justamente tira o potencial de que existe trabalho automático, e assim, obviamente, você não mais ficará com o benefício dessa possibilidade. Porém, você também não vai encontrar a decepção do mundo automático que é o momento que ele não faz o que você quer, ou ainda, faz o que você não quer, ou ainda faz vc se atrelar em complexidades que não são atreladas ao que vc tinha em mente — seu site se torna outro. 
+O que vem aqui é só uma dica de quem errou. Se você começou com um site dinâmico com todos os recursos e com a "enchilada completa" então por favor entre em contato que estarei feliz em mudar tudo aqui. Vou começar com *projetos menores*.
+
+## Projetos menores, ciclos menores
+
+Eu disse "começar com um site estático é bom". Mas isso é muito curto, realmente. É importante uma visão sobre o estático, que seja um site, mas da estática que eu falo não é a que se aplica para o dono, o responsável – nada deve ser parado, as ações de execução em relação as suas ideias devem ser dinâmicas. Dizer estático versus dinâmico é simples demais e confuso demais porque tem muito site, tecnológicamente falando, estático, que é mais dinâmico que muito site tecnológicamente dinâmico que não serve pra nada, só para causar níveis de complexidade e ainda chances para coisas não funcionarem. 
+
+O foco, sai do estático ou dinâmico agora e vai para o simples. E no simples devemos procurar uma infra-estrutura que não pedras no caminho principalmente na relação entre o dono, o responsável.  Não queremos que o potencial das versões complexas causem trabalho pra você. Ao contrário, e algo muito bom do simples — ele  tira o potencial de que existe trabalho automático, e assim você não mais ficará com o benefício dessa possibilidade, a princípio bem chatinho. 
+
+Porém, você também não vai encontrar a decepção do mundo automático que é o momento que ele não faz o que você quer, ou ainda, faz o que você não quer, ou ainda faz vc se atrelar em complexidades que não são atreladas ao que vc tinha em mente — seu site se torna outro. 
 
 Algumas que definem o crescimento inicial de um site são: 
 
