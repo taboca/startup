@@ -4,6 +4,10 @@ Este artigo foi criado porque meu irmão me perguntou sobre a criação de um si
 
 O que vem aqui é só uma dica de quem errou. Se você começou com um site dinâmico com todos os recursos e com a "enchilada completa" então por favor entre em contato que estarei feliz em mudar tudo aqui. Vou começar com *projetos menores*.
 
+### A Enchilada Toda  
+
+![Enchilada CC license by http://www.flickr.com/photos/jeffreyww/](http://farm9.staticflickr.com/8064/8221489760_6f90b12f6e_z.jpg) by http://www.flickr.com/photos/jeffreyww/8221489760")
+
 ## Projetos menores, ciclos menores
 
 Eu disse "começar com um site estático é bom". Mas isso é muito curto, realmente. É importante uma visão sobre o estático, que seja um site, mas da estática que eu falo não é a que se aplica para o dono, o responsável – nada deve ser parado, as ações de execução em relação as suas ideias devem ser dinâmicas. Dizer estático versus dinâmico é simples demais e confuso demais porque tem muito site, tecnológicamente falando, estático, que é mais dinâmico que muito site tecnológicamente dinâmico que não serve pra nada, só para causar níveis de complexidade e ainda chances para coisas não funcionarem. 
