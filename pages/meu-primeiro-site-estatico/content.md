@@ -50,5 +50,9 @@ Eu creio que mantendo esta característica, se puder, você tem a variável que 
 
 E tem muita coisa, muitos sites estáticos ou dinâmicos, que faz este serviço bem feito. O que quer que lhe motiva é o que deve fazer e só deve ouvir aqueles que dizem que o que vai fazer tem tudo pra dar certo se isso for exatamente o que bate com o fato que faz vc entregar semanalmente, quinzenalmente, por semanas, meses — depois medir. 
 
+## Pausa para o alimento da mente 
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/EhqZ0RU95d4" frameborder="0" allowfullscreen></iframe>
+
 Minimize espectatívas quando for usar "tecnologia" ou "produtos" de outros. Torne-se o 100% resposável pelos sucessos ou fracassos que é um mundo muito melhor de se lidar.  E cultive os relacionamentos porque isso é uma instabilidade saudável para o seu negócio, qualquer que seja ele. É a instabilidade que faz o negócio entrar no mercado, nas necessidades.
 
