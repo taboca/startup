@@ -42,7 +42,7 @@ Vou lhe dar um exemplo, eu já perdí meses de vida em mudar a posição e propa
 
 ## Mãos a obra
 
-Eu creio que mantendo esta característica, se puder, você tem a variável que pode lhe ajudar. As componentes que definem o sucesso estão mais atreladas em coisas como; 
+Eu creio que mantendo esta característica, se puder, você tem a variável que pode lhe ajudar. As componentes que definem o sucesso estão mais atreladas em coisas como:
 
 * perseverança 
 * conteúdo
