@@ -6,9 +6,9 @@ O que vem aqui é só uma dica de quem errou. Se você começou com um site din�
 
 ### A Enchilada Toda (whole enchilada)
 
-![Enchilada CC license by http://www.flickr.com/photos/jeffreyww/](http://farm9.staticflickr.com/8064/8221489760_6f90b12f6e.jpg) by http://www.flickr.com/photos/jeffreyww/8221489760")
+![Enchilada CC license by http://www.flickr.com/photos/jeffreyww/](http://farm9.staticflickr.com/8064/8221489760_6f90b12f6e.jpg "by http://www.flickr.com/photos/jeffreyww/8221489760")
 
-Imagem por (Jeffreyww)[http://www.flickr.com/photos/jeffreyww/8221489760/sizes/l/]
+Imagem por [Jeffreyww](http://www.flickr.com/photos/jeffreyww/8221489760/sizes/l/)
 
 ## Projetos menores, ciclos menores
 
