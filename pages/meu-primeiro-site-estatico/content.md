@@ -12,7 +12,22 @@ O foco sai, agora, do estático ou dinâmico e vai para o simples versus complex
 
 Porém, você também não vai encontrar a decepção do mundo automático que é o momento que ele não faz o que você quer, ou ainda, faz o que você não quer, ou ainda faz vc se atrelar em complexidades que não são atreladas ao que vc tinha em mente — seu site se torna outro. 
 
-# Encontrando seu serviço e negócio com um primeiro site
+## Pirâmide da sobrevivência do suposto "site-negócio" 
+
+
+               pré-mercado ( outra história )  
+             /--------------\ 
+            / priorização de \ 
+           / automização.     \  * exceto novas transformações, 
+          /--------------------\    e neste sentido aplica-se o  
+         / usuários, servir e   \    início da pirâmide de novo.  
+        / identificar critérios  \    Para o *novo* faça sempre a  
+       /--------------------------\    alavancagem inicial, entregas,   
+      / alavancagem inicial, menos \    e vá subindo. 
+     / recursos, mais entregas.     \
+    +--------------------------------+
+
+## Encontrando seu serviço e negócio com um primeiro site
 
 Algumas coisas contribuem para esse tal seu site, seu negócio que pode ser, mas estas coisas ainda não se encontraram, em temos de funcionalidades para seu sistema. O problema, nesta fase inicial é saber onde as coisas se encaixam com o que se tem no mercado, opções para começar. Existe um fantasma, uma dúvida e uma curiosidade, muito legal as vezes até o momento que vc vê que é um fantasma. Este é uma estória que é bem contata. Quando encontramos uma proposta, um framework ou sistema, seja um blog moderno, um serviço, o que nós encontramos de fato é um sonho de algo legal — é o que muitos deles estão dizendo até porque muitos deles deram certo — indicador de mercado é um dos indicadores que nos convencem. Mas adentrar em um mund ou outro é tão perigoso quanto começar com uma página estática, um site simples. De fato provavelmente a sua ideia não  vai se encaixar em uma coisa nem na outra e irá maturar para algo que você saberá o que precisa. E na dúvida, no meio tempo, evite coisas mais complexas quando você não souber onde está pisando. E procure também entender o que é saber onde está pisando — estar certo porque? está errado porque? o início de várias coisas inovadoras cai sempre em uma regra geral — escreva um pouco sobre as coisas, viva a ideia e vá criando oportunidades de validar, de cruzar ou confrontar o mercado. Neste início eu creio que, que seja o seu pré-site, deve ser um pouco focado no mais prático e naquilo que lhe permite executar o mais rápido possível. Comece com algumas coisas, por exemplo: 
 
