@@ -16,7 +16,7 @@ Então do que eu estou falando? o estudante leva a sério demais e espana, ele a
 
 Outra variável que ajuda muito é o professor. Porque ele é humano e ele pode ajustar pequenas variáveis - uma outra liquidez de um outro lado. Quando estes dois mundos exercem essa liquidez é que nós podemos ver efeitos interessantíssimos como por exemplo o fato que nos cursos a maioria dos alunos aprovam. É como se os reprovantes fossem aqueles que realmente não aceitaram a tal liquidez — eles foram rígidos com relação ao sistema ou eles largaram — os jogados ou caídos e os escapantes. 
 
-## Pausa para meu lado escapante
+## Pausa para o escapante
 
 De novo estou tremendo com o fantasma da graduação. Naqueles meus dias de caído,, digo, escapante do curso; eu passava direto na frente da sala de aula e lá dentro tinha toda minha turma. Eu adorava eles todos mas não conseguia ficar na sala, no sistema — eu não tinha a tal liquidez e o meu levar a sério era colocado em outras coisas. Eu escapava.
 
