@@ -8,7 +8,7 @@ Para quem não conhece, o Coursera é um site e plataforma onde acontecem vário
 
 ## A regra é jogar 
 
-Essa coisa foi reconhecer, felizmente nos 45 do segundo tempo, que contou bastante um tal jogo de cintura. Digo "um tal" porque eu desconhecia na minha experiência de vida em relação aos cursos. E eu acho que nunca utilizei porque eu entrava no modo revolta com o sistema. O jogo de cintura ou, vou dizer agora, liquidêz do estudante. 
+O que aprendí foi em reconhecer, felizmente nos 45 do segundo tempo, sobre um tal jogo de cintura. Digo "um tal" porque eu desconhecia na minha experiência de vida em relação aos cursos. E eu acho que nunca utilizei porque eu entrava no modo revolta com o sistema. O jogo de cintura ou, vou dizer agora, liquidêz do estudante. 
 
 O estudante que faz uma aula tem que ter essa liquidez e saber quando não levar a sério as coisas. Eu acredito que o sistema funciona muito bem porque a maioria deles naturalmente sabem saber não levar a sério as coisas. Talvez até a instabilidade do jovem e explosões do levar a sério demais acabam funcionando como elementos que contribuem para as espanadas que causam o tal balanço e o efeito que parece com o que eu coloquei como "não levar a sério". Então do que eu estou falando? se é sério demais eu espano, eu chuto o balde e jogo com algumas regras do jogo? liquidez do estudante. 
 
