@@ -8,7 +8,7 @@ Para quem não conhece, o [Coursera](http://www.coursera.org) é um site e plata
 
 ## A regra é jogar 
 
-O que aprendí foi em reconhecer, felizmente nos 45 do segundo tempo, sobre um tal jogo de cintura. Digo "um tal" porque desconhecia na minha experiência de vida em relação aos cursos. E acho que nunca utilizei porque eu entrava no modo revolta com o sistema. O jogo de cintura ou, vou dizer agora, liquidêz do estudante. 
+O que aprendí foi em reconhecer, felizmente nos 45 do segundo tempo, sobre um tal jogo de cintura. Digo "um tal" porque desconhecia na minha experiência de vida em relação aos cursos. E acho que nunca utilizei porque entrava no modo revolta com o sistema. O jogo de cintura ou, vou dizer agora, liquidêz do estudante. 
 
 O estudante que faz uma aula tem que ter essa liquidez e saber quando não levar a sério as coisas. Eu acredito que o sistema funciona muito bem porque a maioria deles naturalmente sabem saber não levar a sério as coisas. Talvez até a instabilidade do jovem e explosões do levar a sério demais acabam funcionando como elementos que contribuem para as espanadas que causam o tal balanço e o efeito que parece com o tal "não levar a sério".
 
@@ -20,7 +20,7 @@ Outra variável que ajuda muito é o professor. Porque ele é humano e ele pode 
 
 De novo estou tremendo com o fantasma da graduação. Naqueles meus dias de caído, digo, escapante de curso. Passava direto na frente da sala de aula e lá dentro tinha toda minha turma — adorava todos mas não o ficar na sala, no sistema. Eu não tinha a tal liquidez e o meu levar a sério era colocado em outras coisas — escapava.
 
-Uma escapada com vontade e força ou como eu dizia na época — com toda a minha força. E ainda se a força precisasse de uma mãozinha eu tinha porque fazia ciências da computação na época que a internet chegou e de verdade. Olha só a pontinha do iceberg — internet toda na sua mão ou as paredes da sala de aula. Logo no primeiro ano tinhamos e-mail e nós pudíamos acessar aqueles computadores da Finlândia que travava não o PC mas a mente da gente. Ficávamos maravilhados porque aquela cena tinha sido feita em 1992 — demonstração [Unreal](http://www.youtube.com/watch?v=vxGtPAhkEQU).
+Uma escapada com vontade e força ou como eu dizia na época — com toda a minha força. E ainda se a força precisasse de uma mãozinha ela era grande porque o curso era de ciências da computação e tudo aconteceu bem na época que a internet chegou. Observe a ponta do iceberg: a internet toda na sua mão ou as paredes da sala de aula. Logo no primeiro ano tinhamos e-mail e nós pudíamos acessar aqueles computadores da Finlândia que travava não o PC mas a mente da gente. Ficávamos maravilhados porque aquela cena tinha sido feita em 1992 — demonstração [Unreal](http://www.youtube.com/watch?v=vxGtPAhkEQU).
 
 E minha escapada foi grande porque quando eu entrei no laboratório — multimídia e internet é lógico — nem deu um ano e o que me acontece? Alguém inventa um navegador — o NSCA Mosaic. E como se não bastasse o que acontece uns dias depois? Um cara carismático chamado Jim Barksdale "compra" uns alunos de uma universidade americana e monta uma empresa aonde? no vale do silício e coloca qual nome? Netscape — sim, escapar para a rede. Não deu outra em 3 anos eu estava pronto para trabalhar para eles — "a espada máxima da fourier" como eu diria na época. 
 
