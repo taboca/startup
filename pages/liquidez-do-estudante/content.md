@@ -18,7 +18,7 @@ Outra variável que ajuda muito é o professor. Porque ele é humano e ele pode 
 
 ## Pausa para o escapante
 
-De novo estou tremendo com o fantasma da graduação. Naqueles meus dias de caído,, digo, escapante do curso; eu passava direto na frente da sala de aula e lá dentro tinha toda minha turma. Eu adorava eles todos mas não conseguia ficar na sala, no sistema — eu não tinha a tal liquidez e o meu levar a sério era colocado em outras coisas. Eu escapava.
+De novo estou tremendo com o fantasma da graduação. Naqueles meus dias de caído, digo, escapante do curso; eu passava direto na frente da sala de aula e lá dentro tinha toda minha turma. Eu adorava eles todos mas não conseguia ficar na sala, no sistema — eu não tinha a tal liquidez e o meu levar a sério era colocado em outras coisas. Eu escapava.
 
 Uma escapada com vontade e força ou como eu dizia na época — com toda a minha força. E ainda se a força precisasse de uma mãozinha eu tinha porque fazia ciências da computação na época que a internet chegou e de verdade. Olha só a pontinha do iceberg — internet toda na sua mão ou as paredes da sala de aula. Logo no primeiro ano tinhamos e-mail e nós pudíamos acessar aqueles computadores da Finlândia que travava não o PC mas a mente da gente. Ficávamos maravilhados porque aquela cena tinha sido feita em 1992 — demonstração [Unreal](http://www.youtube.com/watch?v=vxGtPAhkEQU) [wikipedia Unreal](http://en.wikipedia.org/wiki/Unreal_(demo)). 
 
