@@ -4,8 +4,7 @@ Eu conseguí terminar porque foi nascendo uma ideia de querer saber sobre esta t
 
 ## Pausa para o Coursera 
 
-Para quem não conhece, o [Coursera](http://www.coursera.org) é um site e plataforma onde acontecem vários cursos de graça e online. Estes são ministrados por professores de universidades com a ajuda dos TA (assistentes do teacher). Este curso começou com cerca de 29 mil pessoas e no final diz o professor que mais de 3000 completaram exercícios e 765 completaram os 5 exercícios durante as 9 semanas. 
-
+Para quem não conhece, o [Coursera](http://www.coursera.org) é um site e plataforma onde acontecem vários cursos de graça e online. Estes são ministrados por professores de universidades com a ajuda dos TA (assistentes do teacher). Este curso começou com cerca de 29 mil pessoas e no final, disse o professor, que mais de 3000 completaram exercícios e 765 completaram os 5 exercícios durante as 9 semanas. 
 
 ## A regra é jogar 
 
