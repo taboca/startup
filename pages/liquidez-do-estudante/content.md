@@ -1,6 +1,6 @@
 Eu tenho 37 anos e me matriculei em um curso pela Internet. O curso? HCI, Human Computer Interaction, e foi ministrado pelo professor Scotch Klemer, de Stanford. Foi uma experiência que mexeu com minhas espectativas e bagunçou minha mente. O problema foi que eu não entrei neste curso como um aluno tradicional. Eu entrei com espectativas e vontades e sonhos — uma certa arrogância de quem se acha experiente. O pior é que sendo um curso via Internet eu logo achei que era a revolução dos cursos, ou seja, que o meu particular "modo de pensar" iria funcionar — o meu mundo sistemático de hábitos e vontades da minha zona de conforto.  
 
-## Falhas para acertos
+## 9 semanas para gestação 
 
 No meio das 9 semanas uma coisa inesperada aconteceu: comecei a perigar "bombar" e foi onde todo o glamour das espectativas iniciais começaram a decantar porque eu encontrei um sistema que não era exatamente aquela coisa linda do simplesmente conhecer e aprender (do meu jeito). Eu batí de frente com um sistema que tentou me tirar fora ou me permitir estar nas regras. Alí eu fui aprendendo algo que não era mais a matéria — aprendí que, mesmo sendo na Internet, haveriam regras do jogo e que estas eram próximas daquele sistema tradicional (de cursos tradicionais). 
 
