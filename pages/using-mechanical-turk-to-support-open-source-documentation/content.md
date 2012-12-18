@@ -1,10 +1,18 @@
 This is an experimental work. Today I saw a thread in the Brazilian community list and it was a request for help and priorization work to support the translation of Firefox OS articles. I decided to give it a try and before any translation work I wanted to see what others were doing. It was a bit scary to see a selection of brazilian contributors jumping to do a translation effort using original English content that I felt not as optimal for translation. The problem with that is that written complexities are scaled when a translator is not an expert in the technical field. 
 
+## Goal 
+
+The goal of this work was first to test how other crowd sourcin networks can be used to help contributors to gain knowledge and speed as they help open source projects. I also felt that when things are in "high priority" there is a risk in losing quality. It was an experiment to keep many eyes towards contributors work — and to reduce noise.
+
 ## The process
 
 Since I am not a native English speaker, the way I was able to detect problems was simply evaluating the end result in Portuguese — looking all technical aspects. So instead fixing contributors translation mistakes, I have decided to invest a bit of time to make the original article more plain and more direct. 
 
-And since I lacked the right English knowledge, my experiment was to ask help from English native speakers using Mechanical Turk. I then became the final reviewer as it turns out I know a bit about Mozilla wording and I also understand the technical subject. The goal of this work was first to test how other crowd sourcin networks can be used to help contributors to gain knowledge and speed as they help open source projects. I also felt that when things are in "high priority" there is a risk in losing quality. It was an experiment to keep many eyes towards contributors work — and to reduce noise. I feel that the supporters from Mechanical Turk were able to give me a great English lesson too — it was pleasant to a point I had to write to one of them asking he/she to become a Mozilla contributor. 
+And since I lack the right English knowledge, my experiment was to ask help from English native speakers using Mechanical Turk. I then became the final reviewer so there is a point of contact for possible problems. It also turns out I know a bit about Mozilla wording and the technical subject — so being the commiter was a way to keep the article reliable. 
+
+## Outcome
+
+I felt pretty confident with some great explanations provided. In additionl, some supporters from Mechanical Turk were able to give me a great English lesson as they provided explanations. It was also pleasant to a point I had to write to one of them asking he/she to become a Mozilla contributor or add their name to the article too. 
 
 ## Summary of the project
 
