@@ -1,4 +1,4 @@
-This article was inspired from [mobile web](http://lilly.tumblr.com/post/38236111289/the-mobile-web) — a post from John Lilly, the former CEO of Mozilla. It's also known that Mozilla is going towards an mobile app market with a claim that Firefox OS is more like the web. But the web part that John and others are looking is another web.
+This article was inspired from [mobile web](http://lilly.tumblr.com/post/38236111289/the-mobile-web) — a post from John Lilly, the former CEO of Mozilla. It's also known that Mozilla is going to launch a mobile app market for its Firefox OS phone in 2013 — so we can see a bit more "of the web" in the phone scene. But the web part that John and others are looking is not a specific subject of the infra-structure to build web apps (what Mozilla promotes now). It is a concern and the fact we compare web apps with web pages – we tend to miss the web the way we learned about it.  
 
 ## Looking for a network 
 
