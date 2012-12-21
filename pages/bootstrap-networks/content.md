@@ -14,7 +14,7 @@ Now smartphones are reaching out at a global scale, so there is ubiquity in user
 
 We recognize that cellphones scaled from a conversation tool to something else that could also reach out to the magic of the web. And it feels good because it does not break since it is an online and offline experience. And it fits well in our pockets and our lives — it is good as we can switch modes — I want a phone for maps, calls, friends, updates, and to participate in specific discussions. So if there is a network it's not related to the infra-structure — it's in us and the glue that connects everything is through our conversations — so not a glue in the network as pages used to enable.
 
-The current mobile web is very active but not as active in forming premisses thus forming conclusions (or networked acessible resources) in the way it used to do such as a web page used to be formed with links. Results of interactions are not exactly annotated out there in the wild and might be restricted to app silos or closed networks.  
+The current mobile web is very active but not as active in forming premisses thus supporting conclusions (through networked acessible resources) in the way it used to do such as a web page used to be formed with links. Results of interactions are not exactly annotated out there in the wild and might be restricted to app silos or closed networks.  
 
 ## Network silos boosting conversations
 
