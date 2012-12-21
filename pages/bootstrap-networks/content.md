@@ -10,7 +10,7 @@ And that web was truly different: it used to be formed incredibly fast in terms 
 
 ## Why users are using silos with no network 
 
-Now smartphones are reaching out at a global scale, so there is ubiquity in the general user's recognition.
+Now smartphones are reaching out at a global scale, so there is ubiquity in the general user's recognition that a smartphone is for everyone. But this is certainly not the browser even if we try to put a browser infra-structure very close to the user – like Mozilla is doing. We can tell a story that it is the web but it's not the same web unveiled to users first via NSCA Mosaic.  
 
 We recognize that cellphones scaled from a conversation tool to something else that could also reach out to he magic of the web. And it feels good because it does not break like the web when you are in outside the network — an online and offline hybrid experience. So it fits well in our pocket and in our lives. And we go for it knowing that we can reach out to web resources such as maps, phones, friends, updates, and to participate in specific discussions. So there is ubiquity in there from a user's recognition aspect. So if there is a network it's not related to the infra-structure — it's in us and the glue that connects everything is through our conversations — so not a glue in the network as pages used to do. 
 
