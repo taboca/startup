@@ -1,4 +1,4 @@
-This is a draft article was inspired after a note on the [mobile web](http://lilly.tumblr.com/post/38236111289/the-mobile-web) from John Lilly. John was a CEO of Mozilla and today works at a investment firm in the Silicon Valley. We also know that Mozilla is going towards keeping an 'app market' while Mozilla claims that it's approach is the Web. But the web part that John and others are looking is another web — that scaling and networked web. 
+This article was inspired from [mobile web](http://lilly.tumblr.com/post/38236111289/the-mobile-web) — a post from John Lilly, the former CEO of Mozilla. It's also known that Mozilla is going towards an mobile app market with a claim that Firefox OS is more like the web. But the web part that John and others are looking is another web.
 
 ## Looking for a network 
 
