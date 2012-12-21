@@ -1,8 +1,8 @@
-This is a draft article and a response to a [future of mobile and Web discussion](http://lilly.tumblr.com/post/38236111289/the-mobile-web) from John Lilly.
+This is a draft article was inspired after a note on the [mobile web](http://lilly.tumblr.com/post/38236111289/the-mobile-web) from John Lilly. John was a CEO of Mozilla and today works at a investment firm in the Silicon Valley. We also know that Mozilla is going towards keeping an 'app market' while Mozilla claims that it's approach is the Web. But the web part that John and others are looking is another web — that scaling and networked web. 
 
 ## Looking for a network 
 
-The point that cauth my attention was John's note about a transformative web: "the utility of being able to do things in a networked way, with other people, connected all the time, and being able to mash up stuff from one place into another".
+I wanted to start from there after John's note about a transformative web: "the utility of being able to do things in a networked way, with other people, connected all the time, and being able to mash up stuff from one place into another".
 
 But from that web we could see that the network formation running fast. Back in 1996, Netscape founder Jim Barksdale [talked about this network effect](http://www.youtube.com/watch?v=wgufqTgsPsI). He brought the question everyone had back then: "what is going on here?" and why things were scaling so fast. Jim cited [Melcalfe's law](http://en.wikipedia.org/wiki/Metcalfe%27s_law) and that it works that way when you have ubiquity — "fast networks grows once people believe — I gotta be in the network or I am gonna be left out." And he jokes about a salesman trying to sell the first telephone in a world with no other phones. 
 
