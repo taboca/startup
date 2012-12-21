@@ -1,6 +1,6 @@
 This article was inspired from [mobile web](http://lilly.tumblr.com/post/38236111289/the-mobile-web) — a post from John Lilly, the former CEO of Mozilla. It's also known that Mozilla is going to launch a mobile app market for its Firefox OS phone in 2013 — so we can see a bit more "of the web" in the phone scene. But the web part that John and others are looking is not a specific subject of the infra-structure to build web apps (what Mozilla promotes now). It is a concern and the fact we compare web apps with web pages – we tend to miss the web the way we learned about it.  
 
-## Looking for a network 
+## It's not a network — period
 
 I wanted to start from there after John's note about a transformative web: "the utility of being able to do things in a networked way, with other people, connected all the time, and being able to mash up stuff from one place into another".
 
