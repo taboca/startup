@@ -6,7 +6,7 @@ This article was inspired from [mobile web](http://lilly.tumblr.com/post/3823611
 
 John mentioned about a web that is not exactly there in the mobile scene: "the utility of being able to do things in a networked way, with other people, connected all the time, and being able to mash up stuff from one place into another".
 
-And that web was truly different: it used to be formed incredibly fast in terms of links between resources. Back in 1996, Netscape founder Jim Barksdale [talked about a network effect](http://www.youtube.com/watch?v=wgufqTgsPsI). Jim asked "what is going on here?" and explained why things were scaling so fast. Jim cited [Melcalfe's law](http://en.wikipedia.org/wiki/Metcalfe%27s_law) and that it works that way when you have ubiquity "fast networks grows once people believe: I gotta be in the network or I am gonna be left out." And he jokes about a salesman trying to sell the first telephone in a world with no other phones. 
+And that web was truly different: it used to be formed incredibly fast in terms of links between resources. Back in 1996, Netscape founder Jim Barksdale [talked about a network effect](http://www.youtube.com/watch?v=wgufqTgsPsI). Jim asked "what is going on here?" and explained why things were scaling so fast. He argues that the value of a network increases when you have ubiquity: "fast networks grows once people believe: I gotta be in the network or I am gonna be left out." And he jokes about a salesman trying to sell the first telephone in a world with no other phones. 
 
 ## Why users are using silos with no network 
 
