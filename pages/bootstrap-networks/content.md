@@ -1,5 +1,7 @@
 This article was inspired from [mobile web](http://lilly.tumblr.com/post/38236111289/the-mobile-web) — a post from John Lilly, the former CEO of Mozilla. It's also known that Mozilla is going to launch a mobile app market for its Firefox OS phone in 2013 — so we can see a bit more "of the web" in the phone scene. But the web part that John and others are looking is not a specific subject of the infra-structure to build web apps (what Mozilla promotes now). It is a concern and the fact we compare web apps with web pages – we tend to miss the web the way we learned about it.  
 
+* Draft - 21 Dec 2012
+
 ## It's not a network — period
 
 John mentioned about a web that is not there in the mobile: "the utility of being able to do things in a networked way, with other people, connected all the time, and being able to mash up stuff from one place into another".
@@ -8,7 +10,7 @@ And that web was truly different — it used to be formed incredibly fast in ter
 
 ## Why users are using silos with no network 
 
-Everyone is now using cellphones and smartphones are reaching out at a incredible speed. The scene now looks like a rush in the eighties where everone wanted to have a computer. They were not connected but it was the calculator everyone wanted to have. So ubiquity in user's recognition is certainly here and this makes things a bit difficult for us because we try to look for a network for this effet and the effect is simply a result of our prior sucesses: telecommunications, computers, internet and now us going mobile with a computer with internet. 
+Now smartphones are reaching out at a global scale, so there is ubiquity in the general user's recognition.
 
 We recognize that cellphones scaled from a conversation tool to something else that could also reach out to he magic of the web. And it feels good because it does not break like the web when you are in outside the network — an online and offline hybrid experience. So it fits well in our pocket and in our lives. And we go for it knowing that we can reach out to web resources such as maps, phones, friends, updates, and to participate in specific discussions. So there is ubiquity in there from a user's recognition aspect. So if there is a network it's not related to the infra-structure — it's in us and the glue that connects everything is through our conversations — so not a glue in the network as pages used to do. 
 
